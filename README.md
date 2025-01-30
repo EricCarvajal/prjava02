@@ -8,6 +8,7 @@
 	java prjava02.Prjava02
 
 1- Clona dins del teu ordinador el dipósit: https://github.com/dacomo2021daw2/prjava02.git
+
 git clone https://github.com/dacomo2021daw2/prjava02.git
 
 5- Torna a la branca main del projecte. Comprova l'estat del projecte. Mostra l'historial de la branca main.
@@ -26,3 +27,12 @@ b) Fusiona (merge) la branca branca00 amb la branca master. Trobaràs informaci�
 documentació. 
 git merge branca00
 
+12.- Continuant dins de la branca main:
+a) Fes un push del dipòsit local al dipòsit remot.
+b) Des de Github, actualitza la pàgina web del projecte, i comprova que els canvis han estat realitzats
+correctament.
+c) Comprova que només s'ha actualitzat la branca main únicament. Per què?.
+
+14.- Fes:
+a) Un push de branca01 del dipòsit local al dipòsit remot.
+c) A quants commits de distància (commit ahead) està de la branca main?

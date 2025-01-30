@@ -10,3 +10,8 @@
 5- Torna a la branca main del projecte. Comprova l'estat del projecte. Mostra l'historial de la branca main.
 Quina diferència hi ha amb l'historial de la branca branca00?.
 La diferencia es que a la branca00 a mes de tenir la versio 1.0 del projecte. Es troba tambe la versio 1.1 amb el comentari “Versió 1.1 del projecte prjava02”.
+
+6.- Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?
+
+7.- Torna a la branca branca00. Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure
+l'última línia afegida?. Per què?.

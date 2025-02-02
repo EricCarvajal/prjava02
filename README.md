@@ -40,11 +40,13 @@ git push
 b) Des de Github, actualitza la pàgina web del projecte, i comprova que els canvis han estat realitzats
 correctament.
 
-
-c) Comprova que només s'ha actualitzat la branca main únicament. Per què?.
-
 14.- Fes:
 
 a) Un push de branca01 del dipòsit local al dipòsit remot.
 
+git chekout branca01
+
+git push
+
 c) A quants commits de distància (commit ahead) està de la branca main?
+1. El Readme actualiztat.

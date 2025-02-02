@@ -35,9 +35,11 @@ git merge branca00
 
 a) Fes un push del dipòsit local al dipòsit remot.
 
+git push
 
 b) Des de Github, actualitza la pàgina web del projecte, i comprova que els canvis han estat realitzats
 correctament.
+
 
 c) Comprova que només s'ha actualitzat la branca main únicament. Per què?.
 
